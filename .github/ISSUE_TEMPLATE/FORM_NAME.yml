@@ -31,7 +31,7 @@ body:
       description: What version of our OpenTok SDK are you running?
       options:
         - 2.20.1 (Default)
-        - 2.19 
+        - 2.19
 	- Other
     validations:
       required: true

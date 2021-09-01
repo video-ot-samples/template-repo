@@ -32,7 +32,7 @@ body:
       options:
         - 2.20.1 (Default)
         - 2.19 
-		- Other
+	- Other
     validations:
       required: true
   - type: textarea

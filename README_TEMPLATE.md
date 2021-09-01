@@ -15,7 +15,8 @@ ex. npm
 
 ***Installation***
 
-Add step by step procedure to run the application, ex.
+Add step by step instructions to run the application.
+ex.
 
 1.  Clone the repository
 2.  Configure OpenTok session details in config.js

@@ -24,22 +24,19 @@ body:
       value: "A bug happened!"
     validations:
       required: true
-  - type: dropdown
+  - type: textarea
     id: version
     attributes:
       label: Version
       description: What version of our OpenTok SDK are you running?
-      options:
-        - 2.20.1 (Default)
-        - 2.19
-	- Other
+      value: "JS SDK 2.19, JS SDK 2.20.1"
     validations:
       required: true
   - type: textarea
     id: device-data
     attributes:
       label: What browsers/device are you seeing the problem on?
-       value: "Chrome 91, Firefox on Windows"
+      value: "Chrome 91, Firefox on Windows"
   - type: textarea
     id: logs
     attributes:

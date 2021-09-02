@@ -22,3 +22,7 @@ ex.
 2.  Configure OpenTok session details in config.js
 3.  Run  `npm install`
 4.  Run `npm start`
+
+***Demo video and/or screenshots**
+
+Attach a video or screenshot 
